@@ -58,7 +58,10 @@ nav a {
 nav a:hover {
     color: #f39c12;
 }
-
+.image-section{
+    color: white;
+    text-align: center;
+}
     .container {
       max-width: 1200px;
       margin: 20px auto;
