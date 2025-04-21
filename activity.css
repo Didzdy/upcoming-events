@@ -67,7 +67,16 @@ nav a:hover {
       margin: 20px auto;
       padding: 0 20px;
     }
-
+  .video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
     .image-section, .video-section {
       margin-bottom: 40px;
     }
